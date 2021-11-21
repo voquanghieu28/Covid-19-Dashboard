@@ -1,9 +1,13 @@
 # COVID Dashboard
 
-## 1. 
+## 1. About
+This is application to display the statistic report of COVID-19 by using large dashboard with different diagrams (using Chart.js)
+
+There are different visualizing options so that the user could easily compare, predict the COVID-19 situation. User can either choose to display total or by country, there also have features to group, filtering in order to get best visualizing
+Technologies: React, Chart.js
 
 ## 3. Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YMujnY6grhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Please visit this Youtube [link](https://www.youtube.com/watch?v=YMujnY6grhs) for a demo
 
 ## 2. Deployment 
 
